@@ -10,3 +10,20 @@ int main() {
     }
     
 }
+
+
+//java in whil loop
+#include <stdio.h>
+
+int main() {
+    // While loop 
+    int num=0;
+    while (num<5)
+    {
+        printf("java\n");
+        num++;
+    }
+    return 0;
+    
+}
+ 
